@@ -1,0 +1,65 @@
+{
+  "_args": [
+    [
+      "@uppy/companion-client@0.28.5",
+      "D:\\Web Samples\\NODE JS\\upload"
+    ]
+  ],
+  "_from": "@uppy/companion-client@0.28.5",
+  "_id": "@uppy/companion-client@0.28.5",
+  "_inBundle": false,
+  "_integrity": "sha512-oNutUB/dnHVgjKLwKi31kXjTQM1WTq/3XJy6euR5mLwYpxfWgx5FeO7M08HU4n98Dz3FxztIcAW5tNTKLq1/bQ==",
+  "_location": "/@uppy-example/php-xhr/@uppy/companion-client",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "version",
+    "registry": true,
+    "raw": "@uppy/companion-client@0.28.5",
+    "name": "@uppy/companion-client",
+    "escapedName": "@uppy%2fcompanion-client",
+    "scope": "@uppy",
+    "rawSpec": "0.28.5",
+    "saveSpec": null,
+    "fetchSpec": "0.28.5"
+  },
+  "_requiredBy": [
+    "/@uppy-example/php-xhr/@uppy/aws-s3",
+    "/@uppy-example/php-xhr/@uppy/aws-s3-multipart",
+    "/@uppy-example/php-xhr/@uppy/dropbox",
+    "/@uppy-example/php-xhr/@uppy/google-drive",
+    "/@uppy-example/php-xhr/@uppy/instagram",
+    "/@uppy-example/php-xhr/@uppy/transloadit",
+    "/@uppy-example/php-xhr/@uppy/tus",
+    "/@uppy-example/php-xhr/@uppy/url",
+    "/@uppy-example/php-xhr/@uppy/xhr-upload",
+    "/@uppy-example/php-xhr/uppy"
+  ],
+  "_resolved": "https://registry.npmjs.org/@uppy/companion-client/-/companion-client-0.28.5.tgz",
+  "_spec": "0.28.5",
+  "_where": "D:\\Web Samples\\NODE JS\\upload",
+  "bugs": {
+    "url": "https://github.com/transloadit/uppy/issues"
+  },
+  "dependencies": {
+    "namespace-emitter": "^2.0.1"
+  },
+  "description": "Client library for communication with Companion. Intended for use in Uppy plugins.",
+  "gitHead": "0f95529cc56175c017e149dd3a122a3bcf9325b7",
+  "homepage": "https://uppy.io",
+  "keywords": [
+    "file uploader",
+    "uppy",
+    "uppy-plugin",
+    "companion",
+    "provider"
+  ],
+  "license": "MIT",
+  "main": "lib/index.js",
+  "name": "@uppy/companion-client",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/transloadit/uppy.git"
+  },
+  "types": "types/index.d.ts",
+  "version": "0.28.5"
+}
